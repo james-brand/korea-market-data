@@ -83,10 +83,17 @@ Three things worth knowing before you use the numbers:
 3. **We do not publish raw redistributions.** These files are derived aggregates and returns,
    not a mirror of the underlying vendor feeds.
 
-## Citation
+## Licence and citation
+
+Released under [CC BY 4.0](LICENSE). Copyright © 2026 K-Export Stars (kexportstars.com).
+Use it commercially, redistribute it, build on it — attribution is the only condition:
 
 > K-Export Stars (2026). *Korean Market Data: daily foreign investor flows and KRX sector
 > indices.* https://kexportstars.com/tools/ — CC BY 4.0
+
+The licence covers the derived data and documentation published here. It does not extend to
+the underlying exchange and vendor feeds these aggregates are computed from; those remain
+governed by their own terms.
 
 Live charts, weekly written analysis of these flows, and the download endpoints:
 **[kexportstars.com/tools](https://kexportstars.com/tools/)** ·
