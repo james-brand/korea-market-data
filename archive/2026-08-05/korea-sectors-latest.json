@@ -2,7 +2,7 @@
  "meta": {
   "title": "K-Export Stars — Korean Sector Performance (KRX indices)",
   "as_of_trading_day": "2026-08-05",
-  "generated_at_utc": "2026-08-06T02:48:23+00:00",
+  "generated_at_utc": "2026-08-06T17:04:50+00:00",
   "source": "Korea Exchange (KRX) Open API — official index series",
   "methodology": "Returns computed from KRX settled daily closes. 1w = 5 trading sessions, 1m = 21 sessions, YTD = first session of the year. Excess return is the sector's 1-month return minus its market benchmark (KOSPI or KOSDAQ), in percentage points.",
   "why": "KRX sector indices are not carried by mainstream English-language finance sites. A single index level hides which part of the market moved.",
@@ -11,16 +11,6 @@
   "note": "Derived returns only — not a redistribution of the underlying index series. Not investment advice."
  },
  "benchmarks": {
-  "코스닥": {
-   "market": "KOSDAQ",
-   "sector_ko": "코스닥",
-   "sector_en": "KOSDAQ",
-   "close": 799.59,
-   "return_1d_pct": 2.42,
-   "return_1w_pct": 20.66,
-   "return_1m_pct": -5.61,
-   "return_ytd_pct": -15.44
-  },
   "코스피": {
    "market": "KOSPI",
    "sector_ko": "코스피",
@@ -30,6 +20,16 @@
    "return_1w_pct": 16.51,
    "return_1m_pct": -18.05,
    "return_ytd_pct": 53.11
+  },
+  "코스닥": {
+   "market": "KOSDAQ",
+   "sector_ko": "코스닥",
+   "sector_en": "KOSDAQ",
+   "close": 799.59,
+   "return_1d_pct": 2.42,
+   "return_1w_pct": 20.66,
+   "return_1m_pct": -5.61,
+   "return_ytd_pct": -15.44
   }
  },
  "sectors": [
