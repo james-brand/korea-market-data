@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Korean Market Data: daily foreign investor flows and KRX sector indices"
+abstract: >-
+  Daily net buying by investor class for every KOSPI and KOSDAQ common stock
+  (2,555 names), plus all 44 Korea Exchange sector indices with returns and
+  excess return against their own market. Rebuilt every trading day from
+  primary Korean sources and published in English, machine-readable. Settled
+  sessions only.
+type: dataset
+authors:
+  - family-names: Ju
+    given-names: James
+    affiliation: K-Export Stars
+license: CC-BY-4.0
+url: "https://kexportstars.com/tools/"
+repository-code: "https://github.com/james-brand/korea-market-data"
+keywords:
+  - Korea
+  - KOSPI
+  - KOSDAQ
+  - Korea Exchange
+  - KRX
+  - foreign investor flows
+  - sector indices
+  - emerging markets
+  - financial time series

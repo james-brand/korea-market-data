@@ -1,0 +1,42 @@
+{
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "title": "Korean Market Data: daily foreign investor flows and KRX sector indices",
+  "description": "<p>Two datasets covering the Korean stock market (KOSPI and KOSDAQ), rebuilt every trading day from primary Korean sources and published in English, machine-readable.</p><p><strong>1. Foreign and institutional investor flows.</strong> Daily net buying by investor class for every KOSPI and KOSDAQ common stock (2,555 names, not a top-50 sample), over 1-day, 5-day and 20-day windows, in shares and in value. SPACs, ETFs and preferred shares are excluded.</p><p><strong>2. KRX sector index performance.</strong> All 44 Korea Exchange sector indices plus the KOSPI and KOSDAQ benchmarks, with returns over four windows, each sector's excess return against its own market, and a daily year-to-date time series rebased to 100.</p><p><strong>Why this exists.</strong> Korea is the world's 13th-largest equity market, and both series are published daily by Korean institutions &mdash; in Korean, in formats built for domestic use. Mainstream English-language finance sites do not carry them: Yahoo Finance and TradingView carry no KRX sector indices at all, and the wires publish a single aggregate foreign-flow number and nothing per-stock.</p><p><strong>Accuracy.</strong> On 24 July 2026 the settled market-wide foreign net was reported as &minus;KRW 3.2828tn; summing this dataset over the same session gives &minus;KRW 3.2796tn, a 0.1% difference. Value figures are derived: flows arrive as share counts and are valued at each day's settled close. Only settled sessions are included &mdash; no intraday snapshots.</p><p>Sources: Korea Investment &amp; Securities OpenAPI (investor net-buy per stock), Korea Exchange Open API (closes, share counts, market caps, sector indices). These files are derived aggregates and returns, not a mirror of the underlying vendor feeds. Full method and known limitations in docs/METHODOLOGY.md.</p>",
+  "creators": [
+    {
+      "name": "Ju, James",
+      "affiliation": "K-Export Stars"
+    }
+  ],
+  "keywords": [
+    "Korea",
+    "KOSPI",
+    "KOSDAQ",
+    "Korea Exchange",
+    "KRX",
+    "foreign investor flows",
+    "institutional investor flows",
+    "sector indices",
+    "equity markets",
+    "emerging markets",
+    "market microstructure",
+    "financial time series"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://kexportstars.com/tools/",
+      "relation": "isSupplementTo",
+      "resource_type": "other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kexportstars.com/foreign-flow-watch/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-article",
+      "scheme": "url"
+    }
+  ]
+}
