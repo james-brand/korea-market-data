@@ -38,6 +38,8 @@ ticker,name_en,market,last_close,f_1d_sh,f_5d_sh,f_5d_val,f_20d_sh,f_20d_val,i_1
 ```
 `f_` = foreign, `i_` = institution · `_sh` = net shares · `_val` = net value in KRW
 
+*(preceded by a `#` banner line — see [Using it](#using-it))*
+
 **Accuracy check.** On 24 July 2026 the settled market-wide foreign net was reported as
 −₩3.2828tn. Summing this dataset over the same session gives **−₩3.2796tn — a 0.1%
 difference.** We publish that check because per-stock flow data valued at daily closes is an
@@ -59,10 +61,62 @@ market,sector_en,sector_ko,close,return_1d_pct,return_1w_pct,return_1m_pct,retur
 Sector names are given in both English and Korean, because the Korean name is the join key
 back to any KRX source.
 
+*(also preceded by a `#` banner line.)*
+
 **What a single index level hides.** In the month to 31 July 2026 the KOSPI fell 20.6%. Over
 the same month KOSPI Food, Beverage & Tobacco rose 3.7% and Pharmaceuticals rose 3.1%, while
 Electronics & Semiconductors fell 25.6% — and that same Electronics index was still **+105.0%
 year to date**. None of that is visible in the headline number.
+
+---
+
+## Using it
+
+Every file is served raw from GitHub, so nothing needs to be downloaded first and no API key
+is involved.
+
+> ⚠️ **Both CSVs open with a `#` banner line** carrying the as-of date, licence and source, so
+> that attribution travels with the file. **Pass `comment="#"`** — without it `read_csv` does
+> not raise, it silently returns a single column.
+
+```python
+import pandas as pd
+
+BASE = "https://raw.githubusercontent.com/james-brand/korea-market-data/main/data"
+
+# Who did foreigners buy hardest over the last 20 sessions?
+flows = pd.read_csv(f"{BASE}/foreign-flows-aggregates.csv", comment="#")
+print(flows.nlargest(10, "f_20d_val")[["ticker", "name_en", "f_20d_val"]])
+
+# Which sectors beat their own market over the last month?
+sectors = pd.read_csv(f"{BASE}/korea-sectors-latest.csv", comment="#")
+print(sectors.nlargest(10, "excess_1m_vs_market_pp")[
+    ["market", "sector_en", "return_1m_pct", "excess_1m_vs_market_pp"]])
+```
+
+The JSON files carry the same numbers plus metadata. `korea-sectors-latest.json` additionally
+holds a daily year-to-date series for all 46 lines (44 sectors + 2 benchmarks), rebased to 100
+at the first session of the year:
+
+```python
+import pandas as pd, requests
+
+doc = requests.get(f"{BASE}/korea-sectors-latest.json").json()
+print(doc["meta"]["as_of_trading_day"])     # e.g. "2026-08-06"
+
+dates = pd.to_datetime(doc["series"]["dates"])
+frame = pd.DataFrame(
+    {line["sector_en"]: line["values"] for line in doc["series"]["lines"]},
+    index=dates,
+)
+print(frame.iloc[-1].nlargest(5))           # best year-to-date lines
+```
+
+Each entry in `series["lines"]` carries `market`, `sector_ko`, `sector_en`, `is_benchmark` and
+`values`. Filter on `is_benchmark` to separate the KOSPI and KOSDAQ lines from the sectors.
+
+For a fixed snapshot rather than the moving latest, read from `archive/<YYYY-MM-DD>/`, or cite
+the version DOI of the matching release (see **Licence and citation** below).
 
 ---
 
