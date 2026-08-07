@@ -1,5 +1,8 @@
 # Korean Market Data — daily foreign investor flows and KRX sector indices, in English
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21833374.svg)](https://doi.org/10.5281/zenodo.21833374)
+[![Licence: CC BY 4.0](https://img.shields.io/badge/Licence-CC%20BY%204.0-blue.svg)](LICENSE)
+
 Two datasets covering the Korean stock market (KOSPI and KOSDAQ), rebuilt every trading day
 from primary Korean sources and published in English, machine-readable, under CC BY 4.0.
 
@@ -16,6 +19,7 @@ and nothing per-stock. This repository closes that gap.
 | **Latest** | 2026-08-06 close |
 | **Licence** | [CC BY 4.0](LICENSE) — cite *K-Export Stars (kexportstars.com)* |
 | **History** | daily snapshots in [`archive/`](archive/) from 2026-07-31 onward |
+| **DOI** | [10.5281/zenodo.21833374](https://doi.org/10.5281/zenodo.21833374) — archived on Zenodo, always resolves to the newest release |
 
 ---
 
@@ -88,8 +92,13 @@ Three things worth knowing before you use the numbers:
 Released under [CC BY 4.0](LICENSE). Copyright © 2026 K-Export Stars (kexportstars.com).
 Use it commercially, redistribute it, build on it — attribution is the only condition:
 
-> K-Export Stars (2026). *Korean Market Data: daily foreign investor flows and KRX sector
-> indices.* https://kexportstars.com/tools/ — CC BY 4.0
+> Ju, J. (2026). *Korean Market Data: daily foreign investor flows and KRX sector indices*
+> [Data set]. K-Export Stars. https://doi.org/10.5281/zenodo.21833374
+
+That DOI is the **concept DOI** — it always resolves to the newest release. To cite the exact
+snapshot you used, take the version DOI from that record instead (v1.0.0 is
+[10.5281/zenodo.21833375](https://doi.org/10.5281/zenodo.21833375)). Because the data is
+rebuilt every trading day, pinning the version matters for anything reproducible.
 
 The licence covers the derived data and documentation published here. It does not extend to
 the underlying exchange and vendor feeds these aggregates are computed from; those remain
