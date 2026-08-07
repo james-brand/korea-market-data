@@ -2,7 +2,7 @@
  "meta": {
   "title": "K-Export Stars — Korean Sector Performance (KRX indices)",
   "as_of_trading_day": "2026-08-06",
-  "generated_at_utc": "2026-08-07T00:30:08+00:00",
+  "generated_at_utc": "2026-08-07T17:05:36+00:00",
   "source": "Korea Exchange (KRX) Open API — official index series",
   "methodology": "Returns computed from KRX settled daily closes. 1w = 5 trading sessions, 1m = 21 sessions, YTD = first session of the year. Excess return is the sector's 1-month return minus its market benchmark (KOSPI or KOSDAQ), in percentage points.",
   "why": "KRX sector indices are not carried by mainstream English-language finance sites. A single index level hides which part of the market moved.",
