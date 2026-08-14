@@ -16,7 +16,7 @@ and nothing per-stock. This repository closes that gap.
 |---|---|
 | **Coverage** | 2,555 KOSPI/KOSDAQ common stocks · 44 KRX sector indices + 2 benchmarks |
 | **Updated** | every trading day, ~02:00 KST |
-| **Latest** | 2026-08-12 close |
+| **Latest** | 2026-08-13 close |
 | **Licence** | [CC BY 4.0](LICENSE) — cite *K-Export Stars (kexportstars.com)* |
 | **History** | daily snapshots in [`archive/`](archive/) from 2026-07-31 onward |
 | **DOI** | [10.5281/zenodo.21833374](https://doi.org/10.5281/zenodo.21833374) — archived on Zenodo, always resolves to the newest release |
