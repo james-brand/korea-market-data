@@ -2,10 +2,10 @@
  "meta": {
   "title": "K-Export Stars — Foreign Flow Watch (daily derived data)",
   "as_of_trading_day": "2026-08-14",
-  "generated_at_utc": "2026-08-14T17:05:05+00:00",
+  "generated_at_utc": "2026-08-17T17:04:46+00:00",
   "universe": "2555 KOSPI/KOSDAQ common stocks (SPACs, ETFs, preferred excluded)",
   "methodology": "Daily investor net-buy (shares) from Korea Investment & Securities OpenAPI, valued at each day's close. 5d/20d figures are sums over trading days. Derived aggregates only — no raw time series.",
-  "usd_krw": 1415.59,
+  "usd_krw": 1414.23,
   "license": "CC BY 4.0 — cite 'K-Export Stars (kexportstars.com)'",
   "home": "https://kexportstars.com/foreign-flow-watch/",
   "note": "Positive = net buying, negative = net selling. KRW values are approximate (shares x daily close). Not investment advice."
@@ -21,8 +21,8 @@
     "foreign_net_1d_krw": 1348737358500,
     "foreign_net_5d_shares": 8382584,
     "foreign_net_5d_krw": 2302746595000,
-    "foreign_net_1d_usd": 952774031,
-    "foreign_net_5d_usd": 1626704519
+    "foreign_net_1d_usd": 953690261,
+    "foreign_net_5d_usd": 1628268830
    },
    {
     "ticker": "000660",
@@ -33,8 +33,8 @@
     "foreign_net_1d_krw": 1229650660000,
     "foreign_net_5d_shares": 1460037,
     "foreign_net_5d_krw": 2399839282000,
-    "foreign_net_1d_usd": 868648895,
-    "foreign_net_5d_usd": 1695292662
+    "foreign_net_1d_usd": 869484226,
+    "foreign_net_5d_usd": 1696922930
    },
    {
     "ticker": "005380",
@@ -45,8 +45,8 @@
     "foreign_net_1d_krw": 42711105000,
     "foreign_net_5d_shares": 332620,
     "foreign_net_5d_krw": 140686291500,
-    "foreign_net_1d_usd": 30171947,
-    "foreign_net_5d_usd": 99383504
+    "foreign_net_1d_usd": 30200961,
+    "foreign_net_5d_usd": 99479076
    },
    {
     "ticker": "066570",
@@ -57,8 +57,8 @@
     "foreign_net_1d_krw": 38713760000,
     "foreign_net_5d_shares": 668325,
     "foreign_net_5d_krw": 143361375800,
-    "foreign_net_1d_usd": 27348145,
-    "foreign_net_5d_usd": 101273235
+    "foreign_net_1d_usd": 27374444,
+    "foreign_net_5d_usd": 101370624
    },
    {
     "ticker": "012450",
@@ -69,8 +69,8 @@
     "foreign_net_1d_krw": 37477280000,
     "foreign_net_5d_shares": 58606,
     "foreign_net_5d_krw": 68059092000,
-    "foreign_net_1d_usd": 26474672,
-    "foreign_net_5d_usd": 48078253
+    "foreign_net_1d_usd": 26500131,
+    "foreign_net_5d_usd": 48124487
    },
    {
     "ticker": "004370",
@@ -81,8 +81,8 @@
     "foreign_net_1d_krw": 27680625000,
     "foreign_net_5d_shares": 50247,
     "foreign_net_5d_krw": 22553491000,
-    "foreign_net_1d_usd": 19554126,
-    "foreign_net_5d_usd": 15932220
+    "foreign_net_1d_usd": 19572930,
+    "foreign_net_5d_usd": 15947541
    },
    {
     "ticker": "088350",
@@ -93,8 +93,8 @@
     "foreign_net_1d_krw": 27631972440,
     "foreign_net_5d_shares": 7225706,
     "foreign_net_5d_krw": 39334788820,
-    "foreign_net_1d_usd": 19519757,
-    "foreign_net_5d_usd": 27786852
+    "foreign_net_1d_usd": 19538528,
+    "foreign_net_5d_usd": 27813573
    },
    {
     "ticker": "009540",
@@ -105,8 +105,8 @@
     "foreign_net_1d_krw": 27077128000,
     "foreign_net_5d_shares": 159013,
     "foreign_net_5d_krw": 59664436000,
-    "foreign_net_1d_usd": 19127804,
-    "foreign_net_5d_usd": 42148106
+    "foreign_net_1d_usd": 19146199,
+    "foreign_net_5d_usd": 42188638
    },
    {
     "ticker": "003230",
@@ -117,8 +117,8 @@
     "foreign_net_1d_krw": 26507440000,
     "foreign_net_5d_shares": 72050,
     "foreign_net_5d_krw": 90183119000,
-    "foreign_net_1d_usd": 18725366,
-    "foreign_net_5d_usd": 63707091
+    "foreign_net_1d_usd": 18743373,
+    "foreign_net_5d_usd": 63768355
    },
    {
     "ticker": "278470",
@@ -129,8 +129,8 @@
     "foreign_net_1d_krw": 24817446500,
     "foreign_net_5d_shares": 216365,
     "foreign_net_5d_krw": 85215454000,
-    "foreign_net_1d_usd": 17531522,
-    "foreign_net_5d_usd": 60197837
+    "foreign_net_1d_usd": 17548381,
+    "foreign_net_5d_usd": 60255726
    },
    {
     "ticker": "042660",
@@ -141,8 +141,8 @@
     "foreign_net_1d_krw": 23834082000,
     "foreign_net_5d_shares": 874250,
     "foreign_net_5d_krw": 81925075000,
-    "foreign_net_1d_usd": 16836854,
-    "foreign_net_5d_usd": 57873450
+    "foreign_net_1d_usd": 16853045,
+    "foreign_net_5d_usd": 57929104
    },
    {
     "ticker": "034730",
@@ -153,8 +153,8 @@
     "foreign_net_1d_krw": 23345010000,
     "foreign_net_5d_shares": 92710,
     "foreign_net_5d_krw": 50650193000,
-    "foreign_net_1d_usd": 16491364,
-    "foreign_net_5d_usd": 35780271
+    "foreign_net_1d_usd": 16507223,
+    "foreign_net_5d_usd": 35814679
    },
    {
     "ticker": "096770",
@@ -165,8 +165,8 @@
     "foreign_net_1d_krw": 21196503900,
     "foreign_net_5d_shares": 527452,
     "foreign_net_5d_krw": 65735555100,
-    "foreign_net_1d_usd": 14973618,
-    "foreign_net_5d_usd": 46436861
+    "foreign_net_1d_usd": 14988018,
+    "foreign_net_5d_usd": 46481517
    },
    {
     "ticker": "012330",
@@ -177,8 +177,8 @@
     "foreign_net_1d_krw": 19125855000,
     "foreign_net_5d_shares": 197045,
     "foreign_net_5d_krw": 100852466500,
-    "foreign_net_1d_usd": 13510872,
-    "foreign_net_5d_usd": 71244124
+    "foreign_net_1d_usd": 13523865,
+    "foreign_net_5d_usd": 71312635
    },
    {
     "ticker": "196170",
@@ -189,8 +189,8 @@
     "foreign_net_1d_krw": 17830176000,
     "foreign_net_5d_shares": 23368,
     "foreign_net_5d_krw": 9926644500,
-    "foreign_net_1d_usd": 12595580,
-    "foreign_net_5d_usd": 7012373
+    "foreign_net_1d_usd": 12607692,
+    "foreign_net_5d_usd": 7019116
    },
    {
     "ticker": "005180",
@@ -201,8 +201,8 @@
     "foreign_net_1d_krw": 16418941600,
     "foreign_net_5d_shares": 201029,
     "foreign_net_5d_krw": 16578262000,
-    "foreign_net_1d_usd": 11598656,
-    "foreign_net_5d_usd": 11711203
+    "foreign_net_1d_usd": 11609810,
+    "foreign_net_5d_usd": 11722465
    },
    {
     "ticker": "440110",
@@ -213,8 +213,8 @@
     "foreign_net_1d_krw": 16065709000,
     "foreign_net_5d_shares": 189012,
     "foreign_net_5d_krw": 12401694000,
-    "foreign_net_1d_usd": 11349126,
-    "foreign_net_5d_usd": 8760795
+    "foreign_net_1d_usd": 11360040,
+    "foreign_net_5d_usd": 8769220
    },
    {
     "ticker": "068270",
@@ -225,8 +225,8 @@
     "foreign_net_1d_krw": 15588354000,
     "foreign_net_5d_shares": 750768,
     "foreign_net_5d_krw": 154010458500,
-    "foreign_net_1d_usd": 11011913,
-    "foreign_net_5d_usd": 108795952
+    "foreign_net_1d_usd": 11022503,
+    "foreign_net_5d_usd": 108900575
    },
    {
     "ticker": "028260",
@@ -237,8 +237,8 @@
     "foreign_net_1d_krw": 15132321000,
     "foreign_net_5d_shares": 139282,
     "foreign_net_5d_krw": 49897806500,
-    "foreign_net_1d_usd": 10689763,
-    "foreign_net_5d_usd": 35248771
+    "foreign_net_1d_usd": 10700043,
+    "foreign_net_5d_usd": 35282668
    },
    {
     "ticker": "241710",
@@ -249,8 +249,8 @@
     "foreign_net_1d_krw": 14183944800,
     "foreign_net_5d_shares": 243588,
     "foreign_net_5d_krw": 30118069100,
-    "foreign_net_1d_usd": 10019812,
-    "foreign_net_5d_usd": 21275984
+    "foreign_net_1d_usd": 10029447,
+    "foreign_net_5d_usd": 21296444
    }
   ],
   "foreign_top_sells_1d_by_value": [
@@ -263,8 +263,8 @@
     "foreign_net_1d_krw": -278169994000,
     "foreign_net_5d_shares": -106018,
     "foreign_net_5d_krw": -154087169000,
-    "foreign_net_1d_usd": -196504638,
-    "foreign_net_5d_usd": -108850142
+    "foreign_net_1d_usd": -196693606,
+    "foreign_net_5d_usd": -108954817
    },
    {
     "ticker": "078930",
@@ -275,8 +275,8 @@
     "foreign_net_1d_krw": -44516745000,
     "foreign_net_5d_shares": -667792,
     "foreign_net_5d_krw": -73815020000,
-    "foreign_net_1d_usd": -31447486,
-    "foreign_net_5d_usd": -52144351
+    "foreign_net_1d_usd": -31477727,
+    "foreign_net_5d_usd": -52194495
    },
    {
     "ticker": "080220",
@@ -287,8 +287,8 @@
     "foreign_net_1d_krw": -31335120000,
     "foreign_net_5d_shares": -806366,
     "foreign_net_5d_krw": -68849024700,
-    "foreign_net_1d_usd": -22135732,
-    "foreign_net_5d_usd": -48636276
+    "foreign_net_1d_usd": -22157019,
+    "foreign_net_5d_usd": -48683047
    },
    {
     "ticker": "402340",
@@ -299,8 +299,8 @@
     "foreign_net_1d_krw": -29403920000,
     "foreign_net_5d_shares": 230475,
     "foreign_net_5d_krw": 225004350000,
-    "foreign_net_1d_usd": -20771495,
-    "foreign_net_5d_usd": 158947404
+    "foreign_net_1d_usd": -20791470,
+    "foreign_net_5d_usd": 159100255
    },
    {
     "ticker": "329180",
@@ -311,8 +311,8 @@
     "foreign_net_1d_krw": -27031530000,
     "foreign_net_5d_shares": 53778,
     "foreign_net_5d_krw": 22733345000,
-    "foreign_net_1d_usd": -19095593,
-    "foreign_net_5d_usd": 16059272
+    "foreign_net_1d_usd": -19113956,
+    "foreign_net_5d_usd": 16074716
    },
    {
     "ticker": "950160",
@@ -323,8 +323,8 @@
     "foreign_net_1d_krw": -22198310200,
     "foreign_net_5d_shares": -301587,
     "foreign_net_5d_krw": -12236913110,
-    "foreign_net_1d_usd": -15681314,
-    "foreign_net_5d_usd": -8644391
+    "foreign_net_1d_usd": -15696393,
+    "foreign_net_5d_usd": -8652704
    },
    {
     "ticker": "039030",
@@ -335,8 +335,8 @@
     "foreign_net_1d_krw": -19904272000,
     "foreign_net_5d_shares": -151619,
     "foreign_net_5d_krw": -58169890500,
-    "foreign_net_1d_usd": -14060761,
-    "foreign_net_5d_usd": -41092330
+    "foreign_net_1d_usd": -14074282,
+    "foreign_net_5d_usd": -41131847
    },
    {
     "ticker": "307950",
@@ -347,8 +347,8 @@
     "foreign_net_1d_krw": -19797827500,
     "foreign_net_5d_shares": 1559,
     "foreign_net_5d_krw": -1283410000,
-    "foreign_net_1d_usd": -13985566,
-    "foreign_net_5d_usd": -906626
+    "foreign_net_1d_usd": -13999016,
+    "foreign_net_5d_usd": -907497
    },
    {
     "ticker": "027360",
@@ -359,8 +359,8 @@
     "foreign_net_1d_krw": -16996365500,
     "foreign_net_5d_shares": -5810959,
     "foreign_net_5d_krw": -22815321310,
-    "foreign_net_1d_usd": -12006560,
-    "foreign_net_5d_usd": -16117182
+    "foreign_net_1d_usd": -12018106,
+    "foreign_net_5d_usd": -16132681
    },
    {
     "ticker": "036930",
@@ -371,8 +371,8 @@
     "foreign_net_1d_krw": -15450108800,
     "foreign_net_5d_shares": 125548,
     "foreign_net_5d_krw": 20706707300,
-    "foreign_net_1d_usd": -10914254,
-    "foreign_net_5d_usd": 14627617
+    "foreign_net_1d_usd": -10924750,
+    "foreign_net_5d_usd": 14641683
    },
    {
     "ticker": "042700",
@@ -383,8 +383,8 @@
     "foreign_net_1d_krw": -13533900000,
     "foreign_net_5d_shares": 183460,
     "foreign_net_5d_krw": 38417911000,
-    "foreign_net_1d_usd": -9560607,
-    "foreign_net_5d_usd": 27139152
+    "foreign_net_1d_usd": -9569801,
+    "foreign_net_5d_usd": 27165250
    },
    {
     "ticker": "001820",
@@ -395,8 +395,8 @@
     "foreign_net_1d_krw": -13473327000,
     "foreign_net_5d_shares": -557681,
     "foreign_net_5d_krw": -50597341600,
-    "foreign_net_1d_usd": -9517818,
-    "foreign_net_5d_usd": -35742936
+    "foreign_net_1d_usd": -9526970,
+    "foreign_net_5d_usd": -35777308
    },
    {
     "ticker": "032830",
@@ -407,8 +407,8 @@
     "foreign_net_1d_krw": -12819590000,
     "foreign_net_5d_shares": 54376,
     "foreign_net_5d_krw": 14789089000,
-    "foreign_net_1d_usd": -9056005,
-    "foreign_net_5d_usd": 10447297
+    "foreign_net_1d_usd": -9064714,
+    "foreign_net_5d_usd": 10457344
    },
    {
     "ticker": "017670",
@@ -419,8 +419,8 @@
     "foreign_net_1d_krw": -12727119000,
     "foreign_net_5d_shares": -54852,
     "foreign_net_5d_krw": -6448570000,
-    "foreign_net_1d_usd": -8990682,
-    "foreign_net_5d_usd": -4555394
+    "foreign_net_1d_usd": -8999328,
+    "foreign_net_5d_usd": -4559775
    },
    {
     "ticker": "083650",
@@ -431,8 +431,8 @@
     "foreign_net_1d_krw": -12515437100,
     "foreign_net_5d_shares": -494824,
     "foreign_net_5d_krw": -28783639400,
-    "foreign_net_1d_usd": -8841146,
-    "foreign_net_5d_usd": -20333317
+    "foreign_net_1d_usd": -8849648,
+    "foreign_net_5d_usd": -20352870
    },
    {
     "ticker": "034020",
@@ -443,8 +443,8 @@
     "foreign_net_1d_krw": -11818160200,
     "foreign_net_5d_shares": -301339,
     "foreign_net_5d_krw": -23324708400,
-    "foreign_net_1d_usd": -8348576,
-    "foreign_net_5d_usd": -16477023
+    "foreign_net_1d_usd": -8356604,
+    "foreign_net_5d_usd": -16492868
    },
    {
     "ticker": "047810",
@@ -455,8 +455,8 @@
     "foreign_net_1d_krw": -10252392000,
     "foreign_net_5d_shares": -352346,
     "foreign_net_5d_krw": -50308375700,
-    "foreign_net_1d_usd": -7242487,
-    "foreign_net_5d_usd": -35538805
+    "foreign_net_1d_usd": -7249452,
+    "foreign_net_5d_usd": -35572981
    },
    {
     "ticker": "353200",
@@ -467,8 +467,8 @@
     "foreign_net_1d_krw": -9950447700,
     "foreign_net_5d_shares": -388096,
     "foreign_net_5d_krw": -42717359700,
-    "foreign_net_1d_usd": -7029188,
-    "foreign_net_5d_usd": -30176365
+    "foreign_net_1d_usd": -7035947,
+    "foreign_net_5d_usd": -30205384
    },
    {
     "ticker": "082740",
@@ -479,8 +479,8 @@
     "foreign_net_1d_krw": -9647693550,
     "foreign_net_5d_shares": -401864,
     "foreign_net_5d_krw": -19157966650,
-    "foreign_net_1d_usd": -6815316,
-    "foreign_net_5d_usd": -13533556
+    "foreign_net_1d_usd": -6821870,
+    "foreign_net_5d_usd": -13546571
    },
    {
     "ticker": "011070",
@@ -491,8 +491,8 @@
     "foreign_net_1d_krw": -9200472000,
     "foreign_net_5d_shares": -35074,
     "foreign_net_5d_krw": -24124359000,
-    "foreign_net_1d_usd": -6499391,
-    "foreign_net_5d_usd": -17041912
+    "foreign_net_1d_usd": -6505641,
+    "foreign_net_5d_usd": -17058300
    }
   ],
   "foreign_top_buys_5d_by_value": [
@@ -505,8 +505,8 @@
     "foreign_net_1d_krw": 1229650660000,
     "foreign_net_5d_shares": 1460037,
     "foreign_net_5d_krw": 2399839282000,
-    "foreign_net_1d_usd": 868648895,
-    "foreign_net_5d_usd": 1695292662
+    "foreign_net_1d_usd": 869484226,
+    "foreign_net_5d_usd": 1696922930
    },
    {
     "ticker": "005930",
@@ -517,8 +517,8 @@
     "foreign_net_1d_krw": 1348737358500,
     "foreign_net_5d_shares": 8382584,
     "foreign_net_5d_krw": 2302746595000,
-    "foreign_net_1d_usd": 952774031,
-    "foreign_net_5d_usd": 1626704519
+    "foreign_net_1d_usd": 953690261,
+    "foreign_net_5d_usd": 1628268830
    },
    {
     "ticker": "402340",
@@ -529,8 +529,8 @@
     "foreign_net_1d_krw": -29403920000,
     "foreign_net_5d_shares": 230475,
     "foreign_net_5d_krw": 225004350000,
-    "foreign_net_1d_usd": -20771495,
-    "foreign_net_5d_usd": 158947404
+    "foreign_net_1d_usd": -20791470,
+    "foreign_net_5d_usd": 159100255
    },
    {
     "ticker": "068270",
@@ -541,8 +541,8 @@
     "foreign_net_1d_krw": 15588354000,
     "foreign_net_5d_shares": 750768,
     "foreign_net_5d_krw": 154010458500,
-    "foreign_net_1d_usd": 11011913,
-    "foreign_net_5d_usd": 108795952
+    "foreign_net_1d_usd": 11022503,
+    "foreign_net_5d_usd": 108900575
    },
    {
     "ticker": "066570",
@@ -553,8 +553,8 @@
     "foreign_net_1d_krw": 38713760000,
     "foreign_net_5d_shares": 668325,
     "foreign_net_5d_krw": 143361375800,
-    "foreign_net_1d_usd": 27348145,
-    "foreign_net_5d_usd": 101273235
+    "foreign_net_1d_usd": 27374444,
+    "foreign_net_5d_usd": 101370624
    },
    {
     "ticker": "005380",
@@ -565,8 +565,8 @@
     "foreign_net_1d_krw": 42711105000,
     "foreign_net_5d_shares": 332620,
     "foreign_net_5d_krw": 140686291500,
-    "foreign_net_1d_usd": 30171947,
-    "foreign_net_5d_usd": 99383504
+    "foreign_net_1d_usd": 30200961,
+    "foreign_net_5d_usd": 99479076
    },
    {
     "ticker": "012330",
@@ -577,8 +577,8 @@
     "foreign_net_1d_krw": 19125855000,
     "foreign_net_5d_shares": 197045,
     "foreign_net_5d_krw": 100852466500,
-    "foreign_net_1d_usd": 13510872,
-    "foreign_net_5d_usd": 71244124
+    "foreign_net_1d_usd": 13523865,
+    "foreign_net_5d_usd": 71312635
    },
    {
     "ticker": "003230",
@@ -589,8 +589,8 @@
     "foreign_net_1d_krw": 26507440000,
     "foreign_net_5d_shares": 72050,
     "foreign_net_5d_krw": 90183119000,
-    "foreign_net_1d_usd": 18725366,
-    "foreign_net_5d_usd": 63707091
+    "foreign_net_1d_usd": 18743373,
+    "foreign_net_5d_usd": 63768355
    },
    {
     "ticker": "278470",
@@ -601,8 +601,8 @@
     "foreign_net_1d_krw": 24817446500,
     "foreign_net_5d_shares": 216365,
     "foreign_net_5d_krw": 85215454000,
-    "foreign_net_1d_usd": 17531522,
-    "foreign_net_5d_usd": 60197837
+    "foreign_net_1d_usd": 17548381,
+    "foreign_net_5d_usd": 60255726
    },
    {
     "ticker": "207940",
@@ -613,8 +613,8 @@
     "foreign_net_1d_krw": -1052640000,
     "foreign_net_5d_shares": 53840,
     "foreign_net_5d_krw": 84640240000,
-    "foreign_net_1d_usd": -743605,
-    "foreign_net_5d_usd": 59791495
+    "foreign_net_1d_usd": -744320,
+    "foreign_net_5d_usd": 59848993
    },
    {
     "ticker": "042660",
@@ -625,8 +625,8 @@
     "foreign_net_1d_krw": 23834082000,
     "foreign_net_5d_shares": 874250,
     "foreign_net_5d_krw": 81925075000,
-    "foreign_net_1d_usd": 16836854,
-    "foreign_net_5d_usd": 57873450
+    "foreign_net_1d_usd": 16853045,
+    "foreign_net_5d_usd": 57929104
    },
    {
     "ticker": "035420",
@@ -637,8 +637,8 @@
     "foreign_net_1d_krw": 7365540000,
     "foreign_net_5d_shares": 329626,
     "foreign_net_5d_krw": 73413154000,
-    "foreign_net_1d_usd": 5203159,
-    "foreign_net_5d_usd": 51860465
+    "foreign_net_1d_usd": 5208163,
+    "foreign_net_5d_usd": 51910336
    },
    {
     "ticker": "012450",
@@ -649,8 +649,8 @@
     "foreign_net_1d_krw": 37477280000,
     "foreign_net_5d_shares": 58606,
     "foreign_net_5d_krw": 68059092000,
-    "foreign_net_1d_usd": 26474672,
-    "foreign_net_5d_usd": 48078253
+    "foreign_net_1d_usd": 26500131,
+    "foreign_net_5d_usd": 48124487
    },
    {
     "ticker": "214450",
@@ -661,8 +661,8 @@
     "foreign_net_1d_krw": 5932986000,
     "foreign_net_5d_shares": 163870,
     "foreign_net_5d_krw": 68032964000,
-    "foreign_net_1d_usd": 4191176,
-    "foreign_net_5d_usd": 48059795
+    "foreign_net_1d_usd": 4195206,
+    "foreign_net_5d_usd": 48106012
    },
    {
     "ticker": "096770",
@@ -673,8 +673,8 @@
     "foreign_net_1d_krw": 21196503900,
     "foreign_net_5d_shares": 527452,
     "foreign_net_5d_krw": 65735555100,
-    "foreign_net_1d_usd": 14973618,
-    "foreign_net_5d_usd": 46436861
+    "foreign_net_1d_usd": 14988018,
+    "foreign_net_5d_usd": 46481517
    },
    {
     "ticker": "000270",
@@ -685,8 +685,8 @@
     "foreign_net_1d_krw": 9296937000,
     "foreign_net_5d_shares": 474858,
     "foreign_net_5d_krw": 65138019600,
-    "foreign_net_1d_usd": 6567535,
-    "foreign_net_5d_usd": 46014751
+    "foreign_net_1d_usd": 6573851,
+    "foreign_net_5d_usd": 46059001
    },
    {
     "ticker": "009540",
@@ -697,8 +697,8 @@
     "foreign_net_1d_krw": 27077128000,
     "foreign_net_5d_shares": 159013,
     "foreign_net_5d_krw": 59664436000,
-    "foreign_net_1d_usd": 19127804,
-    "foreign_net_5d_usd": 42148106
+    "foreign_net_1d_usd": 19146199,
+    "foreign_net_5d_usd": 42188638
    },
    {
     "ticker": "192820",
@@ -709,8 +709,8 @@
     "foreign_net_1d_krw": 7108447500,
     "foreign_net_5d_shares": 239120,
     "foreign_net_5d_krw": 58476039500,
-    "foreign_net_1d_usd": 5021544,
-    "foreign_net_5d_usd": 41308600
+    "foreign_net_1d_usd": 5026373,
+    "foreign_net_5d_usd": 41348324
    },
    {
     "ticker": "071050",
@@ -721,8 +721,8 @@
     "foreign_net_1d_krw": 11380140000,
     "foreign_net_5d_shares": 270953,
     "foreign_net_5d_krw": 54045249600,
-    "foreign_net_1d_usd": 8039150,
-    "foreign_net_5d_usd": 38178605
+    "foreign_net_1d_usd": 8046881,
+    "foreign_net_5d_usd": 38215319
    },
    {
     "ticker": "079550",
@@ -733,8 +733,8 @@
     "foreign_net_1d_krw": 7146735000,
     "foreign_net_5d_shares": 62633,
     "foreign_net_5d_krw": 52045669000,
-    "foreign_net_1d_usd": 5048591,
-    "foreign_net_5d_usd": 36766062
+    "foreign_net_1d_usd": 5053446,
+    "foreign_net_5d_usd": 36801418
    }
   ],
   "foreign_top_sells_5d_by_value": [
@@ -747,8 +747,8 @@
     "foreign_net_1d_krw": -278169994000,
     "foreign_net_5d_shares": -106018,
     "foreign_net_5d_krw": -154087169000,
-    "foreign_net_1d_usd": -196504638,
-    "foreign_net_5d_usd": -108850142
+    "foreign_net_1d_usd": -196693606,
+    "foreign_net_5d_usd": -108954817
    },
    {
     "ticker": "078930",
@@ -759,8 +759,8 @@
     "foreign_net_1d_krw": -44516745000,
     "foreign_net_5d_shares": -667792,
     "foreign_net_5d_krw": -73815020000,
-    "foreign_net_1d_usd": -31447486,
-    "foreign_net_5d_usd": -52144351
+    "foreign_net_1d_usd": -31477727,
+    "foreign_net_5d_usd": -52194495
    },
    {
     "ticker": "080220",
@@ -771,8 +771,8 @@
     "foreign_net_1d_krw": -31335120000,
     "foreign_net_5d_shares": -806366,
     "foreign_net_5d_krw": -68849024700,
-    "foreign_net_1d_usd": -22135732,
-    "foreign_net_5d_usd": -48636276
+    "foreign_net_1d_usd": -22157019,
+    "foreign_net_5d_usd": -48683047
    },
    {
     "ticker": "039030",
@@ -783,8 +783,8 @@
     "foreign_net_1d_krw": -19904272000,
     "foreign_net_5d_shares": -151619,
     "foreign_net_5d_krw": -58169890500,
-    "foreign_net_1d_usd": -14060761,
-    "foreign_net_5d_usd": -41092330
+    "foreign_net_1d_usd": -14074282,
+    "foreign_net_5d_usd": -41131847
    },
    {
     "ticker": "263750",
@@ -795,8 +795,8 @@
     "foreign_net_1d_krw": -4478000000,
     "foreign_net_5d_shares": -1650322,
     "foreign_net_5d_krw": -52949000100,
-    "foreign_net_1d_usd": -3163345,
-    "foreign_net_5d_usd": -37404193
+    "foreign_net_1d_usd": -3166387,
+    "foreign_net_5d_usd": -37440162
    },
    {
     "ticker": "001820",
@@ -807,8 +807,8 @@
     "foreign_net_1d_krw": -13473327000,
     "foreign_net_5d_shares": -557681,
     "foreign_net_5d_krw": -50597341600,
-    "foreign_net_1d_usd": -9517818,
-    "foreign_net_5d_usd": -35742936
+    "foreign_net_1d_usd": -9526970,
+    "foreign_net_5d_usd": -35777308
    },
    {
     "ticker": "047810",
@@ -819,8 +819,8 @@
     "foreign_net_1d_krw": -10252392000,
     "foreign_net_5d_shares": -352346,
     "foreign_net_5d_krw": -50308375700,
-    "foreign_net_1d_usd": -7242487,
-    "foreign_net_5d_usd": -35538805
+    "foreign_net_1d_usd": -7249452,
+    "foreign_net_5d_usd": -35572981
    },
    {
     "ticker": "010130",
@@ -831,8 +831,8 @@
     "foreign_net_1d_krw": -5419076000,
     "foreign_net_5d_shares": -40693,
     "foreign_net_5d_krw": -49906472000,
-    "foreign_net_1d_usd": -3828140,
-    "foreign_net_5d_usd": -35254892
+    "foreign_net_1d_usd": -3831821,
+    "foreign_net_5d_usd": -35288795
    },
    {
     "ticker": "097950",
@@ -843,8 +843,8 @@
     "foreign_net_1d_krw": -81019800,
     "foreign_net_5d_shares": -265456,
     "foreign_net_5d_krw": -49480453800,
-    "foreign_net_1d_usd": -57234,
-    "foreign_net_5d_usd": -34953945
+    "foreign_net_1d_usd": -57289,
+    "foreign_net_5d_usd": -34987558
    },
    {
     "ticker": "066970",
@@ -855,8 +855,8 @@
     "foreign_net_1d_krw": -2950381500,
     "foreign_net_5d_shares": -456879,
     "foreign_net_5d_krw": -45946884100,
-    "foreign_net_1d_usd": -2084206,
-    "foreign_net_5d_usd": -32457763
+    "foreign_net_1d_usd": -2086211,
+    "foreign_net_5d_usd": -32488976
    },
    {
     "ticker": "090460",
@@ -867,8 +867,8 @@
     "foreign_net_1d_krw": -3566085600,
     "foreign_net_5d_shares": -2408184,
     "foreign_net_5d_krw": -44401288840,
-    "foreign_net_1d_usd": -2519152,
-    "foreign_net_5d_usd": -31365925
+    "foreign_net_1d_usd": -2521574,
+    "foreign_net_5d_usd": -31396088
    },
    {
     "ticker": "353200",
@@ -879,8 +879,8 @@
     "foreign_net_1d_krw": -9950447700,
     "foreign_net_5d_shares": -388096,
     "foreign_net_5d_krw": -42717359700,
-    "foreign_net_1d_usd": -7029188,
-    "foreign_net_5d_usd": -30176365
+    "foreign_net_1d_usd": -7035947,
+    "foreign_net_5d_usd": -30205384
    },
    {
     "ticker": "131290",
@@ -891,8 +891,8 @@
     "foreign_net_1d_krw": 721500000,
     "foreign_net_5d_shares": -169757,
     "foreign_net_5d_krw": -41405125500,
-    "foreign_net_1d_usd": 509681,
-    "foreign_net_5d_usd": -29249378
+    "foreign_net_1d_usd": 510172,
+    "foreign_net_5d_usd": -29277505
    },
    {
     "ticker": "064760",
@@ -903,8 +903,8 @@
     "foreign_net_1d_krw": -7943908000,
     "foreign_net_5d_shares": -163224,
     "foreign_net_5d_krw": -36800717500,
-    "foreign_net_1d_usd": -5611730,
-    "foreign_net_5d_usd": -25996735
+    "foreign_net_1d_usd": -5617126,
+    "foreign_net_5d_usd": -26021735
    },
    {
     "ticker": "035900",
@@ -915,8 +915,8 @@
     "foreign_net_1d_krw": -495350350,
     "foreign_net_5d_shares": -888209,
     "foreign_net_5d_krw": -36551375100,
-    "foreign_net_1d_usd": -349925,
-    "foreign_net_5d_usd": -25820595
+    "foreign_net_1d_usd": -350262,
+    "foreign_net_5d_usd": -25845425
    },
    {
     "ticker": "100790",
@@ -927,8 +927,8 @@
     "foreign_net_1d_krw": -2629515000,
     "foreign_net_5d_shares": -2054505,
     "foreign_net_5d_krw": -35223880230,
-    "foreign_net_1d_usd": -1857540,
-    "foreign_net_5d_usd": -24882827
+    "foreign_net_1d_usd": -1859326,
+    "foreign_net_5d_usd": -24906755
    },
    {
     "ticker": "007660",
@@ -939,8 +939,8 @@
     "foreign_net_1d_krw": -8051814400,
     "foreign_net_5d_shares": -375825,
     "foreign_net_5d_krw": -34726144400,
-    "foreign_net_1d_usd": -5687957,
-    "foreign_net_5d_usd": -24531217
+    "foreign_net_1d_usd": -5693426,
+    "foreign_net_5d_usd": -24554807
    },
    {
     "ticker": "095610",
@@ -951,8 +951,8 @@
     "foreign_net_1d_krw": -1374405000,
     "foreign_net_5d_shares": -237179,
     "foreign_net_5d_krw": -34572531900,
-    "foreign_net_1d_usd": -970906,
-    "foreign_net_5d_usd": -24422702
+    "foreign_net_1d_usd": -971840,
+    "foreign_net_5d_usd": -24446188
    },
    {
     "ticker": "088980",
@@ -963,8 +963,8 @@
     "foreign_net_1d_krw": 1191530850,
     "foreign_net_5d_shares": -3062892,
     "foreign_net_5d_krw": -29700052220,
-    "foreign_net_1d_usd": 841720,
-    "foreign_net_5d_usd": -20980689
+    "foreign_net_1d_usd": 842530,
+    "foreign_net_5d_usd": -21000865
    },
    {
     "ticker": "083650",
@@ -975,8 +975,8 @@
     "foreign_net_1d_krw": -12515437100,
     "foreign_net_5d_shares": -494824,
     "foreign_net_5d_krw": -28783639400,
-    "foreign_net_1d_usd": -8841146,
-    "foreign_net_5d_usd": -20333317
+    "foreign_net_1d_usd": -8849648,
+    "foreign_net_5d_usd": -20352870
    }
   ]
  }
