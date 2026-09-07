@@ -2,7 +2,7 @@
  "meta": {
   "title": "K-Export Stars — Korean Sector Performance (KRX indices)",
   "as_of_trading_day": "2026-09-04",
-  "generated_at_utc": "2026-09-05T00:30:40+00:00",
+  "generated_at_utc": "2026-09-07T17:04:54+00:00",
   "source": "Korea Exchange (KRX) Open API — official index series",
   "methodology": "Returns computed from KRX settled daily closes. 1w = 5 trading sessions, 1m = 21 sessions, YTD = first session of the year. Excess return is the sector's 1-month return minus its market benchmark (KOSPI or KOSDAQ), in percentage points.",
   "why": "KRX sector indices are not carried by mainstream English-language finance sites. A single index level hides which part of the market moved.",
@@ -11,16 +11,6 @@
   "note": "Derived returns only — not a redistribution of the underlying index series. Not investment advice."
  },
  "benchmarks": {
-  "코스피": {
-   "market": "KOSPI",
-   "sector_ko": "코스피",
-   "sector_en": "KOSPI",
-   "close": 6687.21,
-   "return_1d_pct": 1.64,
-   "return_1w_pct": -1.5,
-   "return_1m_pct": 1.35,
-   "return_ytd_pct": 55.17
-  },
   "코스닥": {
    "market": "KOSDAQ",
    "sector_ko": "코스닥",
@@ -30,6 +20,16 @@
    "return_1w_pct": -2.97,
    "return_1m_pct": 1.74,
    "return_ytd_pct": -13.97
+  },
+  "코스피": {
+   "market": "KOSPI",
+   "sector_ko": "코스피",
+   "sector_en": "KOSPI",
+   "close": 6687.21,
+   "return_1d_pct": 1.64,
+   "return_1w_pct": -1.5,
+   "return_1m_pct": 1.35,
+   "return_ytd_pct": 55.17
   }
  },
  "sectors": [
@@ -354,17 +354,6 @@
   },
   {
    "market": "KOSPI",
-   "sector_ko": "통신",
-   "sector_en": "Telecom",
-   "close": 624.91,
-   "return_1d_pct": 2.18,
-   "return_1w_pct": -3.51,
-   "return_1m_pct": 0.75,
-   "return_ytd_pct": 29.99,
-   "excess_1m_vs_market_pp": -0.6
-  },
-  {
-   "market": "KOSPI",
    "sector_ko": "오락·문화",
    "sector_en": "Media & Entertainment",
    "close": 866.36,
@@ -372,6 +361,17 @@
    "return_1w_pct": -0.71,
    "return_1m_pct": 0.75,
    "return_ytd_pct": -40.29,
+   "excess_1m_vs_market_pp": -0.6
+  },
+  {
+   "market": "KOSPI",
+   "sector_ko": "통신",
+   "sector_en": "Telecom",
+   "close": 624.91,
+   "return_1d_pct": 2.18,
+   "return_1w_pct": -3.51,
+   "return_1m_pct": 0.75,
+   "return_ytd_pct": 29.99,
    "excess_1m_vs_market_pp": -0.6
   },
   {
