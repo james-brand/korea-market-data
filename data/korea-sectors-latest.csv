@@ -1,7 +1,7 @@
 # K-Export Stars Korean sector performance · as of 2026-09-23 · Source: KRX Open API · CC BY 4.0 · kexportstars.com/tools/
 market,sector_en,sector_ko,close,return_1d_pct,return_1w_pct,return_1m_pct,return_ytd_pct,excess_1m_vs_market_pp
-KOSPI,KOSPI,코스피,7080.92,0.9,5.4,5.02,64.3,
 KOSDAQ,KOSDAQ,코스닥,844.48,1.21,3.49,2.1,-10.69,
+KOSPI,KOSPI,코스피,7080.92,0.9,5.4,5.02,64.3,
 KOSPI,Medical & Precision Instruments,의료·정밀기기,1856.21,3.36,11.83,19.25,25.19,14.23
 KOSDAQ,Electronics & Semiconductors,전기전자,1748.35,1.09,8.31,11.06,18.59,8.96
 KOSPI,Electronics & Semiconductors,전기전자,118207.8,1.95,8.55,10.42,126.47,5.4
