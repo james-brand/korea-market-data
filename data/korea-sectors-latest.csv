@@ -1,2 +1,48 @@
 # K-Export Stars Korean sector performance · as of 2026-11-02 · Source: KRX Open API · CC BY 4.0 · kexportstars.com/tools/
 market,sector_en,sector_ko,close,return_1d_pct,return_1w_pct,return_1m_pct,return_ytd_pct,excess_1m_vs_market_pp
+KOSDAQ,KOSDAQ,코스닥,734.36,1.38,0.98,-14.2,-22.34,
+KOSPI,KOSPI,코스피,5859.08,2.24,7.12,-14.32,35.95,
+KOSDAQ,Publishing & Media,출판·매체복제,1554.09,-1.44,2.23,20.14,-28.74,34.34
+KOSPI,"Food, Beverage & Tobacco",음식료·담배,4820.61,0.27,2.88,3.4,6.94,17.72
+KOSPI,Transport & Warehousing,운송·창고,2113.97,5.31,8.95,3.32,13.71,17.64
+KOSPI,Pharmaceuticals,제약,15399.18,-1.92,-0.24,2.67,-13.12,16.99
+KOSPI,Medical & Precision Instruments,의료·정밀기기,1892.51,2.2,5.1,0.41,27.64,14.73
+KOSPI,Media & Entertainment,오락·문화,781.76,0.22,-5.37,-0.95,-46.12,13.37
+KOSPI,General Services,일반서비스,1361.75,1.52,2.07,-1.22,3.82,13.1
+KOSDAQ,Media & Entertainment,오락·문화,278.26,0.79,0.18,-1.45,-46.33,12.75
+KOSPI,Utilities (Electricity & Gas),전기·가스,939.31,1.83,3.87,-2.48,-31.59,11.84
+KOSPI,Insurance,보험,44844.76,-0.61,7.73,-2.79,48.23,11.53
+KOSPI,Non-metallic Minerals,비금속,3306.45,1.46,-0.38,-4.98,-18.69,9.34
+KOSPI,Textiles & Apparel,섬유·의류,213.05,0.92,3.38,-5.04,-10.43,9.28
+KOSDAQ,IT Services,IT 서비스,623.67,-0.81,0.81,-5.52,-32.47,8.68
+KOSDAQ,Other Manufacturing,기타제조,499.01,-1.0,-1.47,-5.83,-24.64,8.37
+KOSDAQ,"Food, Beverage & Tobacco",음식료·담배,3709.31,0.96,0.04,-5.85,-25.18,8.35
+KOSDAQ,Transport & Warehousing,운송·창고,2932.99,3.14,1.61,-6.12,9.76,8.08
+KOSPI,Retail & Distribution,유통,549.99,2.2,6.39,-6.27,14.94,8.05
+KOSDAQ,Telecom,통신,1029.55,0.93,-1.23,-6.83,-9.6,7.37
+KOSPI,IT Services,IT 서비스,1034.72,2.25,0.16,-7.36,-20.86,6.96
+KOSDAQ,Paper & Timber,종이·목재,5796.64,1.48,-0.04,-8.37,-24.71,5.83
+KOSDAQ,Financials,금융,1260.95,1.97,4.13,-8.44,-15.1,5.76
+KOSPI,Telecom,통신,537.62,1.01,3.83,-9.25,11.84,5.07
+KOSPI,Real Estate,부동산,809.98,-3.97,-6.19,-9.38,-18.99,4.94
+KOSDAQ,Chemicals,화학,2000.99,2.64,5.48,-9.48,-19.22,4.72
+KOSDAQ,Pharmaceuticals,제약,7520.66,0.88,-1.88,-10.0,-43.41,4.2
+KOSDAQ,Textiles & Apparel,섬유·의류,25.98,0.97,-0.08,-10.38,-37.14,3.82
+KOSDAQ,Metals,금속,1681.49,4.07,1.61,-11.12,-10.2,3.08
+KOSPI,Financials,금융,977.42,1.12,7.9,-11.6,24.97,2.72
+KOSPI,Paper & Timber,종이·목재,183.31,0.32,-1.19,-12.14,-32.39,2.18
+KOSDAQ,Medical & Precision Instruments,의료·정밀기기,1584.46,2.6,-2.25,-12.55,-34.77,1.65
+KOSDAQ,Construction,건설,64.65,1.94,-2.83,-12.89,-20.35,1.31
+KOSDAQ,Transport Equipment & Parts,운송장비·부품,3662.78,2.01,-0.87,-13.2,-31.16,1.0
+KOSPI,Securities,증권,4188.73,-0.71,4.39,-13.31,-2.58,1.01
+KOSPI,Chemicals,화학,4110.59,2.34,0.3,-14.0,1.42,0.32
+KOSDAQ,General Services,일반서비스,3420.1,0.8,-2.97,-15.17,-44.83,-0.97
+KOSDAQ,Retail & Distribution,유통,415.61,2.18,3.72,-15.53,-15.44,-1.33
+KOSPI,Electronics & Semiconductors,전기전자,94712.44,2.55,9.59,-15.99,81.46,-1.67
+KOSDAQ,Electronics & Semiconductors,전기전자,1471.45,1.71,2.35,-16.76,-0.19,-2.56
+KOSPI,Metals,금속,5342.0,2.94,3.39,-17.21,-17.39,-2.89
+KOSDAQ,Machinery & Equipment,기계·장비,715.17,1.33,2.67,-19.69,8.79,-5.49
+KOSPI,Transport Equipment & Parts,운송장비·부품,3516.93,3.7,-0.64,-20.39,-26.14,-6.07
+KOSPI,Construction,건설,126.71,5.76,-3.13,-21.47,31.25,-7.15
+KOSDAQ,Non-metallic Minerals,비금속,56051.61,1.06,0.15,-25.01,12.3,-10.81
+KOSPI,Machinery & Equipment,기계·장비,2296.09,3.11,-0.13,-26.38,-16.72,-12.06
